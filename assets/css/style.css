@@ -658,6 +658,12 @@ section {
   color: #666;
 }
 
+.about .section-title h4 {
+  text-align: center;
+  font-style: normal;
+  color: #666;
+}
+
 .about .about-content {
   padding: 40px;
 }
